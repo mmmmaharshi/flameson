@@ -24,7 +24,7 @@ const MainApp: React.FC = () => {
       navigator
         .share({
           title: "FLAMEson",
-          text: "resultMessage",
+          text: resultMessage,
           url: window.location.href,
         })
         .then(() => console.log("Shared successfully!"))
