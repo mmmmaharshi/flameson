@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Bellefair", "sans-serif"],
+        sans: ["Sour Gummy", "sans-serif"],
       },
     },
   },
