@@ -1,6 +1,6 @@
 # FLAMESon
 
-Just enter two names, and let the magic reveal your connection.
+Enter two names and uncover the magic behind your connection!
 
 [https://flameson.vercel.app](https://flameson.vercel.app/)
 

@@ -18,7 +18,7 @@ const MainApp: React.FC = () => {
   };
 
   const handleShare = () => {
-    const resultMessage = `✨ Your connection: ${flamesLabel} ✨\n\n${resultText}\n\nExplore more at: `;
+    const resultMessage = `✨ Your connection: ${flamesLabel} ✨\n\n${resultText}\n\nExplore more at:`;
 
     if (navigator.share) {
       navigator
