@@ -1,5 +1,26 @@
 {
-  "name": "flames",
+  "name": "flameson",
+  "description": "Just enter two names, and let the magic reveal your connection.",
+  "keywords": [
+    "flames",
+    "relationship",
+    "love",
+    "calculator",
+    "astro",
+    "react",
+    "tailwindcss",
+    "daisyui"
+  ],
+  "author": {
+    "name": "Manohar Maharshi",
+    "email": "pmanoharmaharshi@gmail.com",
+    "url": "https://github.com/mmmmaharshi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmmaharshi/flameson.git"
+  },
+  "homepage": "https://flameson.vercel.app/",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
